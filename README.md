@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NourFagou
+- 👋 Hi, I’m Noureddine
 - 🌱 I’m currently learning Software Engineer
 
 <!---
