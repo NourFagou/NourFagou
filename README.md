@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noureddine
-- 🌱 I’m currently learning Software Engineer
+- 🌱 Software Engineering
 
 <!---
 NourFagou/NourFagou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
