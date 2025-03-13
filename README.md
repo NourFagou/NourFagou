@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1AN6E36Zb0ZNNvc5bKJIhALWuL8_6qyda/view?usp=drivesdk" alt="Noureddine Fagou Cover" width="100%">
+  <img src="https://1drv.ms/i/c/c5c69cc112a29941/EQ70GTo70MlMuAjqO06cBr8BEf_8L2IetvLD2sVxvVwjVw" alt="Noureddine Fagou Cover" width="100%">
 </p>
 
 # 👋 Hi, I'm Noureddine Fagou!  
